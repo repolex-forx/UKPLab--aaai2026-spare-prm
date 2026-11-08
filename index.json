@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "aaai2026-spare-prm",
+  "versions": [
+    {
+      "commit": "d1076e02de3a326bca2a2c3dc92c8821c078175b",
+      "tag": "",
+      "parsed_at": "2026-11-08T17:37:08.301842+00:00"
+    }
+  ]
+}
