@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/aaai2026-spare-prm/commit/d1076e02de3a326bca2a2c3dc92c8821c078175b",
       "git:hexsha": "d1076e02de3a326bca2a2c3dc92c8821c078175b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
